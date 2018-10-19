@@ -1,0 +1,58 @@
+
+body {
+    margin: 0px;
+}
+
+/* Navbar */
+.navbar {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #444;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+}
+
+.navbar li a:hover {
+    background-color: #111;
+}
+
+/* Header */
+header {
+    text-align: center;
+}
+
+/* Seattle Section */
+.section-imgs {
+    display: block;
+    height: auto;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.seahawk-img {
+    opacity: .5;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #444;
+    color: white;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
